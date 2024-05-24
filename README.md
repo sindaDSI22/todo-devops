@@ -14,4 +14,4 @@ npm start
 # Build for production
 npm run build
 ```
-![Texte alternatif de l'image](src\image.png)
+![Texte alternatif de l'image](src/image.png)
